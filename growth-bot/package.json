@@ -1,0 +1,14 @@
+{
+  "name": "achievement-poap-growth-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Install and smoke-check achievement-poap",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "achievement-poap": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
