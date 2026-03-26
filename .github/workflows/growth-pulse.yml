@@ -1,3 +1,4 @@
+# Updated workflow to use Node.js 24 for all actions
 name: Growth Pulse
 
 on:
